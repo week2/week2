@@ -1,0 +1,41 @@
+# Learned about some loops using
+
+i = 1
+
+while i <= 5 # while the varible i is less than 5, print it and then add 1 to it
+  print(i)
+  i = i + 1
+  
+# and also learned about lists:
+
+numbers = [1, 2, 3, 4, 5]
+> [1, 2, 3, 4, 5]
+
+numbers.insert(0, -1)
+> [-1, 1, 2, 3, 4, 5]
+
+numbers.remove(3)
+> [-1, 1, 2, 4, 5]
+
+print(1 in numbers)
+> True # 1 is in the list
+
+print(len(numbers))
+> 5 # since 5 numbers
+
+# and for loops
+
+numbers = [1, 2, 3, 4, 5]
+  for item in numbers: # it can change over any number in the list and in each edit, this item varible holds a value.
+    print(item)
+    
+# and while loops too
+
+i = 0
+while i < len(numbers): # while i is less than the length of numbers, 5, then print the value of i
+    print(numbers[i])
+    i = i + 1 # adds one to i, meaning will be 1, 2, etc
+
+signing out, 
+week2 
+[ sept 21 2022 ]
