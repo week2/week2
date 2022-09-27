@@ -8,5 +8,8 @@ if statement lingo:
 knew: and, or
 new: not, iff
 
+v = or
+n = and
+
 ---
 Last Updated: 2:34 PM EST
