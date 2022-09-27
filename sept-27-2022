@@ -11,5 +11,8 @@ new: not, iff
 v = or
 n = and
 
+fun game:
+build a guess a number
+
 ---
-Last Updated: 2:34 PM EST
+Last Updated: 2:44 PM EST
