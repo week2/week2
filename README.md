@@ -1,4 +1,4 @@
-### Hi, I'm Week.
+### :wave: Hi, I'm Week.
 
 - I'm a student currently taking an intro to Computer Science Cource. Mainly using this for Visual Studio Code but who knows what I'll do here
 - hope you have a nice day or night.
