@@ -9,4 +9,4 @@ week2
 [ sept 21 2022 ]
 ```
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=week2&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=week2&show_icons=true&theme=tokyonight)
