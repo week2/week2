@@ -3,11 +3,9 @@
 - :school_satchel: I'm a student currently taking an intro to Computer Science Cource. 
 - :computer: Mainly using Github for Visual Studio Code but who knows what I'll do here
 - :purple_heart: hope you have a nice day or night.
-- :zap: this was made on sept 21 2022                                                                                               
-
+- :zap: this was made on sept 21 2022                                                                                        
 ---------------------
-
-- :fearful: here is my github grade and stats                                                       
+- :fearful: here is my github grade and stats                           
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=week2&show_icons=true&theme=tokyonight)
 
