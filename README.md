@@ -6,5 +6,5 @@
 ---------------------
 - :nerd_face: here is my github grade, stats, total contibutions, and streak :)
 
-![My stats](https://githubreadmestats.vercel.app/apiusername=week2&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+![My stats](https://githubreadmestats.vercel.app/apiusername=week2&hide=issues&count_private=true&show_icons=true&theme=tokyonight)
 [![My Streak](http://github-readme-streak-stats.herokuapp.com?user=Week2&theme=tokyonight)](https://git.io/streak-stats)
